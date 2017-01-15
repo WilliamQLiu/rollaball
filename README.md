@@ -10,3 +10,6 @@ If you're interested in game development, check out the [Unity game engine](http
 * Sixth video (1hr 20 min in) - Now that we have a bunch of objects for pickup, we want to be able to run into them to trigger collecting the items.
 * Seventh video (1hr 40 min in) - We add a counter and some GUI elements (e.g. win text)
 * Eight video (1hr 50 min in) - We build our game to different target platforms (e.g. Mac, iOS)
+
+##Screenshot
+![A ball rolling... much excitement](https://github.com/WilliamQLiu/unity3d-rollaball-tutorial/blob/master/Screenshots/rolling.gif "A ball rolling...")
